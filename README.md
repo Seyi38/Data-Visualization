@@ -1,5 +1,4 @@
 # Data Visualization
- Repository containing some data visualizations
 
 The WIZKID.pdf is a poster I made of Ayodeji Balogun popularly known as Wizkid. I analyzed the audio features of Wizkid’s songs alongside his music streams. The aim was to explore his evolution as an artist from a music star in Nigeria to his emergence on the global stage and see how his music has evolved over the years. 
 
